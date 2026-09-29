@@ -1,4 +1,4 @@
-# Shape Management System — IY4101 OOP final Assessment
+# Shape Management System
  
 A Java console application that models geometrical shapes (Rectangle, Square,
 Circle, Triangle) using object-oriented principles, and lets a user add,
@@ -83,16 +83,3 @@ dimensions.
   and `area()`/`perimeter()` return `-1`, when given an out-of-range
   position. A message is printed to the console in each case, and the
   program continues running rather than crashing.
-
-## Testing
- 
-A full test plan with expected and actual results for each menu operation
-(including invalid-position error handling and the integer-division scaling
-behaviour) is included in the accompanying report.
- 
-## Author
- 
-* **Name**: Emmanuel Mugaine
-* **StudentID**: 303065252
-* **Module**: IY4101 Object Oriented Programming
-* **Tutor**: Dr. Dena S. Y. Nuuman
